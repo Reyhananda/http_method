@@ -1,0 +1,8 @@
+[
+  { "id": 2, "nama": "Celana", "harga": 150000 },
+  { "id": 3, "nama": "Hoodie Jeans", "harga": 75000 },
+  { "id": 4, "nama": "Jaket", "harga": 190000 },
+  { "id": 5, "nama": "Topi", "harga": 65000 },
+  { "id": 6, "nama": "Sepatu", "harga": 25000 },
+  { "id": 7, "nama": "Sabuk", "harga": 65000 }
+]
